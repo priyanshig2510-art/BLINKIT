@@ -1,7 +1,0 @@
-streamlit
-pandas
-matplotlib
-numpy
-pg8000
-sqlalchemy
-psycopg2-binary
